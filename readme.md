@@ -1,7 +1,7 @@
 # Build a live blog using Go and Pusher Channels
 This is a demo on how to build a live blog using Go, Vue and Pusher.
 
-[View tutorial](https://pusher.com/tutorials/live-blog-go-vuejs)
+[View tutorial](https://pusher.com/tutorials/live-blog-swift-go)
 
 ## Prerequisites
 - Xcode (v9.x) running on your machine. [Download Xcode](https://developer.apple.com/xcode/).
